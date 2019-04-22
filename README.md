@@ -20,6 +20,7 @@
 7. 选择习题库或者讨论库
 8. 选择对应的章节文件
 9. 点击编辑按钮
+!(编辑按钮)[https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/编辑按钮.png]
 10. 编辑完毕后，在“Propose file change”标题下的第一个文本框填写自己的学号加姓名，如“2015180236沈林松”，然后，点击下面的“Propose file change”按钮
 11. 在新弹出的页面中，点击中间的绿色按钮“Create pull request”
 12. 页面会发生变化，再次点击中间的绿色按钮“Create pull request”
