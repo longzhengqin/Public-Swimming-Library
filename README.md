@@ -9,8 +9,8 @@
 ![github登录](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/github登录.png)
 2. 首次登录github，自己的邮箱里面会收到一封验证邮件，请点击其中的验证链接，方能成功登录github
 ![验证邮箱](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/验证邮箱.png)
-2. 首次登录github，自己的邮箱里面会收到一封验证邮件，请点击其中的验证链接，方能成功登录githu
 3. 在github的搜索框中搜索“public swimming library”，或者直接点击链接：https://github.com/SplendidSong/Public-Swimming-Library
+![搜索library](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/搜索library.png)
 4. 点击右上角的“Fork”，等待github的成功提示
 5. 点击最右上角的头像，点击自己的ID，进入用户主页
 6. 点击“Repositories”，点击标题下的“SplendidSong/Public-Swimming-Library”
