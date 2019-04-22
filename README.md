@@ -12,6 +12,7 @@
 3. 在github的搜索框中搜索“public swimming library”，或者直接点击链接：https://github.com/SplendidSong/Public-Swimming-Library
 ![搜索library](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/搜索library.png)
 4. 点击右上角的“Fork”，等待github的成功提示
+![fork](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/fork.png)
 5. 点击最右上角的头像，点击自己的ID，进入用户主页
 6. 点击“Repositories”，点击标题下的“SplendidSong/Public-Swimming-Library”
 7. 选择习题库或者讨论库
