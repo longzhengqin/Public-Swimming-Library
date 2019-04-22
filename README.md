@@ -5,7 +5,7 @@
   
 欢迎各位大佬参加到《大众游泳》的建设中，请大家按照以下规则进行操作：
 
-1. 注册github的账号，账户名请填写自己的学号加姓名，如“2015180236沈林松”，中间请不要加空格，学号和姓名直接连在一起（https://github.com）
+1. 注册github的账号，账户名请填写自己的学号加sicnu，如“2015180236sicnu”，中间请不要加空格，学号和姓名直接连在一起（https://github.com）
 ![github登录](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/github登录.png)
 2. 首次登录github，自己的邮箱里面会收到一封验证邮件，请点击其中的验证链接，方能成功登录github
 ![验证邮箱](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/验证邮箱.png)
