@@ -19,7 +19,7 @@
 ![repositories](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/repositories.png)
 7. 选择习题库或者讨论库
 8. 选择对应的章节文件
-9. 点击编辑按钮
+9. 点击编辑按钮进行编辑，编辑的具体格式请参考下面的格式介绍，视频的文件请在微信群里获取
 ![编辑按钮](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/编辑按钮.png)
 10. 编辑完毕后，在“Propose file change”标题下的第一个文本框填写自己的学号加姓名，如“2015180236沈林松”，然后，点击下面的“Propose file change”按钮
 ![评论](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/评论.png)
