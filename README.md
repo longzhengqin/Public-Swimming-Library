@@ -14,6 +14,7 @@
 4. 点击右上角的“Fork”，等待github的成功提示
 ![fork](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/fork.png)
 5. 点击最右上角的头像，点击自己的ID，进入用户主页
+![进入个人主页](https://github.com/SplendidSong/Public-Swimming-Library/blob/master/图片库/进入个人主页.png)
 6. 点击“Repositories”，点击标题下的“SplendidSong/Public-Swimming-Library”
 7. 选择习题库或者讨论库
 8. 选择对应的章节文件
